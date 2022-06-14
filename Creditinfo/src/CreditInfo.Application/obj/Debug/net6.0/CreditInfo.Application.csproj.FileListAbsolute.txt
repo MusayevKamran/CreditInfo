@@ -1,0 +1,17 @@
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.csproj.AssemblyReference.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.AssemblyInfoInputs.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.AssemblyInfo.cs
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.csproj.CoreCompileInputs.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\bin\Debug\net6.0\CreditInfo.Application.deps.json
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\bin\Debug\net6.0\CreditInfo.Application.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\bin\Debug\net6.0\CreditInfo.Application.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\refint\CreditInfo.Application.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\ref\CreditInfo.Application.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\bin\Debug\net6.0\CreditInfo.Domain.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\bin\Debug\net6.0\CreditInfo.Persistance.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\bin\Debug\net6.0\CreditInfo.Persistance.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\bin\Debug\net6.0\CreditInfo.Domain.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Application\obj\Debug\net6.0\CreditInfo.Application.csproj.CopyComplete

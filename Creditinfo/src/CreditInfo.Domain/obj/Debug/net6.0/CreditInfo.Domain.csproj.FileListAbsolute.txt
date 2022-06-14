@@ -1,0 +1,12 @@
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\bin\Debug\net6.0\CreditInfo.Domain.deps.json
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\bin\Debug\net6.0\CreditInfo.Domain.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\bin\Debug\net6.0\CreditInfo.Domain.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\CreditInfo.Domain.csproj.AssemblyReference.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\CreditInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\CreditInfo.Domain.AssemblyInfoInputs.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\CreditInfo.Domain.AssemblyInfo.cs
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\CreditInfo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\CreditInfo.Domain.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\refint\CreditInfo.Domain.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\CreditInfo.Domain.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Domain\obj\Debug\net6.0\ref\CreditInfo.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\bin\Debug\net6.0\CreditInfo.Persistance.deps.json
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\bin\Debug\net6.0\CreditInfo.Persistance.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\bin\Debug\net6.0\CreditInfo.Persistance.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\bin\Debug\net6.0\CreditInfo.Domain.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\bin\Debug\net6.0\CreditInfo.Domain.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.csproj.AssemblyReference.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.AssemblyInfoInputs.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.AssemblyInfo.cs
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.csproj.CopyComplete
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\refint\CreditInfo.Persistance.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.pdb
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\ref\CreditInfo.Persistance.dll
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\bin\Debug\net6.0\CreditInfo.Persistance.runtimeconfig.json
+C:\Users\kamranmusayev\Desktop\Creditinfo\Creditinfo\src\CreditInfo.Persistance\obj\Debug\net6.0\CreditInfo.Persistance.genruntimeconfig.cache
